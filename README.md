@@ -1,0 +1,1 @@
+This is thrdhands very first git project!
